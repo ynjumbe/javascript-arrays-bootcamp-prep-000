@@ -12,3 +12,7 @@ chocolateBars.push("m&m");
 function addElementToBeginningOfArray (array, element){
   return [element, ...array]
 }
+
+function destructivelyAddElementToBeginningOfArray (array, element) {
+  
+}
