@@ -45,3 +45,5 @@ function removeElementFromBeginningOfArray (array) {
     array.pop()
     return array
   }
+  
+  function removeElementFromEndofarray
