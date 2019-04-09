@@ -9,5 +9,5 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 chocolateBars.push("m&m");
 
-var addElementToBeginningOfArray = ["Blue", "Red"]
-addElementToBeginningOfArray.unshift("Gold");
+function addElementToBeginningOfArray (Blue, Red)
+addElementToBeginningOfArray.unshift("Gold")
